@@ -1,5 +1,5 @@
 <?php
-/// fb.com/alfianokt104 ///
+/// fb.com/andreas ///
 /// Please don't recode my script ///
 $pesan = file_get_contents('http://aos-file.000webhostapp.com/caping-spam/notes.txt');
 function bom($hp){
