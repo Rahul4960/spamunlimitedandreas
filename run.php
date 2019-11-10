@@ -15,7 +15,7 @@ echo $result;
 echo "\n";
 }
 system('clear');
-echo "Creator\t\t:\tAlfian Oktafireza\nFacebook\t:\tfb.com/alfianokt104\nTelegram\t:\tt.me/alfian_oktafireza\n\n";
+echo "Creator\t\t:\t4ndre4s5Anonymous\nFacebook\t:\tfb.com/Andreas\nTelegram\t:\tt.me/andreasAnonymous\n\n";
 echo "<[ CAPING SPAM OTP ]>\n";
 echo "____________________\n\n";
 echo "Pesan : $pesan \n\n";
